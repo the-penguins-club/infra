@@ -1,0 +1,5 @@
+[stg]
+ansible_host=107.155.65.111 ansible_user=ansible
+
+[prod]
+ansible_host=136.243.195.67 ansible_user=ansible
